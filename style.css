@@ -2,24 +2,24 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
     line-height 1.6;
     margin: 0;
-    background-color: #f4f4f4;
+    background-color: #393939;
 }
 
 header {
-    background: #2c3e50;
-    color: white;
+    background: #f4b6db;
+    color: rgb(10, 0, 0);
     padding: 1rem;
     text-align: center;
 }
 
 nav {
-    background: #34495e;
+    background: #8e5377;
     padding: 10px;
     text-align: center;
 }
 
 nav a {
-    color: white;
+    color: rgb(12, 0, 0);
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
@@ -37,14 +37,14 @@ img {
     display: block;
     margin: 20px auto;
     max-width: 100%;
-    border: 2px solid #ddd;
+    border: 2px solid #d48eb3;
     border-radius: 4px;
 }
 
 footer {
     text-align: ccenter;
     padding: 20px;
-    color: #667;
+    color: rgb(253, 125, 212);
     font-size: 0.9rem;
 
 }
